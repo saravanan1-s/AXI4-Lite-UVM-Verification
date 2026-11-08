@@ -31,5 +31,4 @@ class axi_wstrb0_seq extends uvm_sequence #(axi_transaction);
       read_transaction_h.print();
     end
  endtask : body
-endclass : axi_wstrb0_seq 
-
+endclass : axi_wstrb0_seq  
